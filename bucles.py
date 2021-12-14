@@ -36,3 +36,11 @@ numero = int(input("pon un numero")) #pon aquí el número del que quieres hacer
 print("tabla de multiplicar del ", numero)
 for i in range (10):
     print(numero,"por",i,"=",numero *i )
+
+
+ # ahora con while condition:
+        i=0
+    while i <= 11:
+        print(i*13)
+        i += 1
+    print("Programa terminado")
