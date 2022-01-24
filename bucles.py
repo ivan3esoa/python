@@ -21,7 +21,7 @@ for i in range(10): # números del 0 al 10
 
 print("Ejemplo while")
 a = 1
-b = 10
+b = 10 hola
 while a < b:
     print(a)
     a += 1
